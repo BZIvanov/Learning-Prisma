@@ -1,9 +1,13 @@
-## About
+# Learning Prisma
 
-Simple project for running basic SQL queries.
+This repository contains learning materials about **[Prisma ORM](https://www.prisma.io/)**.
 
-## Setup
+Prisma is a **next-generation Node.js and TypeScript ORM** that provides a type-safe and modern way to interact with databases. It helps developers model data using the Prisma schema language and offers powerful tools for migrations, querying, and database workflows.
 
-1. Create a postgre database named dashboard, as specified in the .env file.
-2. Run the script from the package.json file to create the tables, if not already created.
-3. Run the script from the package.json file to seed data in the tables if they are newly created.
+## Why Prisma?
+
+- Type-safe queries out of the box
+- Works with multiple databases: PostgreSQL, MySQL, SQLite, SQL Server, MongoDB
+- Easy-to-read schema definition
+- Built-in database migrations
+- Great developer experience with Prisma Client and Prisma Studio
