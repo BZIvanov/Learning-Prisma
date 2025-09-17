@@ -11,3 +11,8 @@ Prisma is a **next-generation Node.js and TypeScript ORM** that provides a type-
 - Easy-to-read schema definition
 - Built-in database migrations
 - Great developer experience with Prisma Client and Prisma Studio
+
+## Content of this repo
+
+1. GettingStarted
+2. BasicSetup
